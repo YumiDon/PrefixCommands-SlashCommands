@@ -10,7 +10,7 @@ module.exports = {
        if (!args.join(' ')) return message.reply({embeds: [embed]})
       
      let don = new MessageEmbed()
-      .setAuthor(message.author.tag, message.author.displayAvatarURL({ dyanmic: true }))
+      .setAuthor(message.author.tag, message.author.displayAvatarURL({ dynamic: true }))
         .setDescription(args.join(" "))
         .setTimestamp()
         .setColor("RANDOM")
