@@ -58,4 +58,4 @@ client.config = require('./src/config/config.json')
 
 require("./src/handler")(client);
 
-client.login(process.env.TOKEN);
+client.login(config.token);
