@@ -24,7 +24,5 @@
 
 <hr>
 <p align="center">
-ᴅɪsᴄᴏʀᴅ: ঔৣ☬✞𝓓𝖔𝖓✞☬ঔৣ#0552 <img align="center" alt="YumiDon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="YumiDon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="YumiDon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="YumiDon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ᴅɪsᴄᴏʀᴅ: ঔৣ☬✞𝓓𝖔𝖓✞☬ঔৣ#0552 <img align="center" alt="YumiDon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="YumiDon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="YumiDon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="YumiDon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  <img align="center" alt="YumiDon" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"> <img align="center" alt="YumiDon" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"> <img align="center" alt="YumiDon" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
 </p>
-
-  
